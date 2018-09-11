@@ -1,1 +1,1 @@
-# helloworld
+# helloworld - an idea project for beginners
